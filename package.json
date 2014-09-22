@@ -1,0 +1,27 @@
+{
+  "name": "angular-actionqueue",
+  "version": "0.0.1",
+  "description": "An AngularJS service to manage requests as an action queue.",
+  "main": "lib/angular-actionqueue.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zahpee/angular-actionqueue.git"
+  },
+  "keywords": [
+    "actionqueue",
+    "action-queue",
+    "queue",
+    "angularjs",
+    "angular",
+    "promise"
+  ],
+  "author": "Ivo Santiago <ivo.santiago@zahpee.com>",
+  "license": "zahpee",
+  "bugs": {
+    "url": "https://github.com/zahpee/angular-actionqueue/issues"
+  },
+  "homepage": "https://github.com/zahpee/angular-actionqueue"
+}

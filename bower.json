@@ -1,0 +1,30 @@
+{
+  "name": "angular-actionqueue",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zahpee/angular-actionqueue",
+  "authors": [
+    "Ivo Santiago <ivo.santiago@zahpee.com>",
+    "Daniel Galinkin <daniel.galinkin@zahpee.com>"
+  ],
+  "description": "An AngularJS service to manage requests as an action queue.",
+  "main": "lib/angular-actionqueue.js",
+  "keywords": [
+    "actionqueue",
+    "action-queue",
+    "queue",
+    "promise",
+    "angularjs",
+    "angular"
+  ],
+  "license": "zahpee",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.23"
+  }
+}
