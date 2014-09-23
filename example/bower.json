@@ -7,6 +7,7 @@
   "dependencies": {
     "angular": "1.2.x",
     "angular-route": "1.2.x",
-    "angular-loader": "1.2.x"
+    "angular-loader": "1.2.x",
+    "angular-actionqueue": "zahpee/angular-actionqueue#~0.0.1"
   }
 }

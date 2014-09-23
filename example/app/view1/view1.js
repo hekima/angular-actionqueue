@@ -49,6 +49,7 @@ angular.module('myApp.view1', ['ngRoute'])
 			return deferred.promise;
 		};
 
+	console.log('1st step');
 	funcA();
 	funcB();
 	funcC();
