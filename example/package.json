@@ -1,9 +1,8 @@
 {
-  "name": "angular-seed",
+  "name": "angular-actionqueue-example",
   "private": true,
-  "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "version": "0.0.1",
+  "description": "An adaptation from Angular Seed",
   "license": "MIT",
   "devDependencies": {
     "http-server": "^0.6.1",

@@ -1,8 +1,7 @@
 {
   "name": "angular-seed",
-  "description": "A starter project for AngularJS",
-  "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "description": "An adaptation from Angular Seed",
+  "version": "0.0.1",
   "license": "MIT",
   "private": true,
   "dependencies": {
